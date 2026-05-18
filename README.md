@@ -1,5 +1,4 @@
 # Spam Detector AI
-### IBM SkillsBuild AICTE 6-Week AI/ML Internship Project
 
 ## What is this project?
 
@@ -177,13 +176,3 @@ numpy
 matplotlib
 wordcloud
 ```
-
----
-
-## About
-
-Built by **Snehal** as part of the
-**IBM SkillsBuild AICTE 6-Week Technical Internship Program**
-in Artificial Intelligence — May 2026.
-
-*IBM SkillsBuild AICTE AI Internship — 2026*
