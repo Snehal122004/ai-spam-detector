@@ -1,0 +1,9 @@
+message,prediction,spam_%,risk_level
+Congratulations! You have WON a FREE prize worth 1000 pounds,SPAM,98.0,HIGH RISK
+URGENT: Your SBI account will be blocked. Update KYC now,SPAM,99.1,HIGH RISK
+Hey can we meet tomorrow at 5pm for project discussion?,HAM,0.5,SAFE
+Aapka loan approved ho gaya hai abhi call karo,SPAM,99.4,HIGH RISK
+Please send me the notes from today class,HAM,0.7,SAFE
+FREE entry win FA Cup tickets text WIN to 87121,SPAM,97.2,HIGH RISK
+Mom I will be home late tonight please do not wait for dinner,HAM,0.0,SAFE
+Dear customer your Paytm KYC expired update immediately,SPAM,94.6,HIGH RISK
